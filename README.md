@@ -55,22 +55,22 @@
     <img src="assets/Booked_Amenitis.jpg" alt="Logo" width="200" height="200">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+    <img src="assets/Maintenance.jpg" alt="Logo" width="200" height="200">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+    <img src="assets/Notification.jpg" alt="Logo" width="200" height="200">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+    <img src="assets/Securites_Alert.jpg" alt="Logo" width="200" height="200">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+    <img src="assets/Select_Amenitis.jpg" alt="Logo" width="200" height="200">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+    <img src="assets/add_transaction.jpg" alt="Logo" width="200" height="200">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+    <img src="assets/get_along.jpg" alt="Logo" width="200" height="200">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
     <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
