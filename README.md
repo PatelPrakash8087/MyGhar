@@ -61,8 +61,8 @@
 ### Built With
 
 [![flutter][flutter.js]][Next-url]<br>
-[![firebase](Next-url)<br>](https://img.shields.io/badge/flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)<br>
-[![dart](Next-url)](https://img.shields.io/badge/flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)
+[![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28)](Next-url)<br>
+[![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=0175C2)](Next-url)
 <!--
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
