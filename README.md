@@ -84,20 +84,15 @@ The core concept of the game revolves around using block-based programming to pl
 
 ### Features
 
-1. `Intuitive User Interface`: The game will offer a user-friendly interface with a <b>toolbox</b> of programming blocks that students can use to create a series of actions for the space ship.
+1. `Visitor management`:  QR Based and highly secure authentication visitor management system. 
 
-2. `Cosmic Adventures`: Students will explore a <b>visually stunning</b> and diverse interstellar environment, featuring planets, asteroids, nebulae, and other celestial objects, each presenting unique challenges for route planning.
+2. `QR based security and authentication system`: With auto-generated QR codes, weensure the authentication of every visitor to your home.
 
-3. `Block-Based Route Planning`: By <b>dragging</b> and connecting coding blocks, students will define the ship's route, including movement, rotations, and interactions with the environment.
+3. `Hendymen list with contact`: Find reliable handymen swiftly with our user-friendly app.
 
-4. `Progressive Difficulty`: The game will offer a gradual learning curve, introducing new coding concepts and challenges as players advance through the <b>levels</b>.
+4. `Maintenance rercords`: Ensure compliance and transparency with detailed maintenance records.
 
-5. `Real-Time Feedback`: Students will receive <b>instant feedback</b> on their code blocks, allowing them to debug and optimize their routes for efficiency and accuracy.
-
-6. `Creative Freedom`: The game will <b>encourage creativity</b>, allowing students to experiment with different coding approaches and refine their problem-solving skills.
-
-7. `Gamified Learning`: Students will earn rewards as they complete levels, providing a sense of accomplishment and <b>motivation</b> to continue learning.
-   
+5. `Dairect maintainance payment option`: Seamlessly pay for maintenance services directly through our app.
 <!--
 ### Installation
 
@@ -118,17 +113,7 @@ The core concept of the game revolves around using block-based programming to pl
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Educational Benefit
 
-- `Introduction to Coding Concepts`: Students will learn fundamental coding concepts such as conditionals, and functions through the <b>visual representation</b> of code blocks.
-  
-- `Logical Thinking`: The game will challenge students to think <b>logically</b> and plan strategically to reach the destination efficiently.
-  
-- `Debugging Skills`: Debugging capabilities will help students <b>identify and fix errors</b>, reinforcing the importance of precise coding.
-  
-- `Computational Thinking`: Students will <b>develop computational thinking</b> skills as they break down complex tasks into smaller, manageable steps.
-  
-- `Problem-Solving Skills`: By overcoming various obstacles in space, students will enhance their <b>problem-solving</b> abilities.
 
 
 _For more examples, please refer to the [Github](https://github.com/OracleYT/))
