@@ -78,10 +78,9 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-MARK-3 is an educational Unity 3D game designed to introduce students to the world of coding through a space-themed interactive experience. In this game, students will embark on an intergalactic journey as they become space pilots, navigating their spacecraft through challenging cosmic terrains to reach their destination.
+"Step into the world of seamless community living with MyGhar, the ultimate society management system. MyGhar is more than just an app; it's your digital companion for efficient and hassle-free management of residential communities. Picture a place where organizing events, managing finances, and staying connected with neighbors is effortlessly woven together into one intuitive platform. With MyGhar, residents can easily communicate announcements, schedule gatherings, and coordinate activities, fostering a vibrant sense of community spirit.
 
-The core concept of the game revolves around using block-based programming to plan the route for the spaceship. Instead of traditional lines of code, the students will use a drag-and-drop system that employs visual blocks of statements, making coding concepts more accessible and engaging for beginners.
-
+"At the heart of MyGhar lies a robust suite of features designed to simplify every aspect of society life. Residents can submit maintenance requests with a few taps, track their progress in real-time, and ensure that their surroundings are well-maintained. Additionally, the platform offers secure payment options for dues and fees, eliminating the need for manual transactions and paperwork. From managing visitor access to sharing important documents, MyGhar empowers residents with the tools they need to enhance their living experience. Welcome to MyGhar, where convenience meets community."
 ### Features
 
 1. `Visitor management`:  QR Based and highly secure authentication visitor management system. 
@@ -93,65 +92,11 @@ The core concept of the game revolves around using block-based programming to pl
 4. `Maintenance rercords`: Ensure compliance and transparency with detailed maintenance records.
 
 5. `Dairect maintainance payment option`: Seamlessly pay for maintenance services directly through our app.
-<!--
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
--->
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-
-_For more examples, please refer to the [Github](https://github.com/OracleYT/))
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- ROADMAP 
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
--->
-
-<!-- Target audience -->
-## Target Audience
-
-The game is designed for middle and high school students who are new to coding or have minimal programming experience. It can also serve as an excellent supplementary tool for coding and computer science classes.
-
-Overall, Cosmic Route Planner aims to ignite students' passion for coding and space exploration while providing a solid foundation in block-based programming, making the concept of coding clear and accessible to all aspiring space adventurers!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
 ## Contact
 
-Bhargav Singh Barad - [@linkedin](https://www.linkedin.com/in/bhargav-singh-barad/) - bhargavsinghbarad007@gmail.com
-
-Project Demo Link: [Video Demo](https://youtube.com/playlist?list=PLpSi8Gwi0z9nyUyJVV74FNBRccZhwmUbg)
+Prakash Patel - [@linkedin](https://www.linkedin.com/in/bhargav-singh-barad/) - bhargavsinghbarad007@gmail.com
 
 ### !NO SOURCE CODE(CAN BE USED BY OTHERS IF DECLARED)
 
