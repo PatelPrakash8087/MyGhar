@@ -24,7 +24,7 @@
   </a> 
 
 
-<h1 align="center">MARK - 3</h1>
+<h1 align="center">MyGhar - 3</h1>
 
   <p align="center">
      Unity game with a Visual code Editor (Drag & Drop) to run the Ship as per the commands of the user.
