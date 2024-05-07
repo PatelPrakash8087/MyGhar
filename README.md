@@ -45,14 +45,63 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Mark-3 Screen Shot][product-screenshot]](https://youtu.be/zjhYZU-olpo)
-
-
-
-
-
-
-[![Mark-3 Screen Shot 2][product-screenshot-2]](https://youtu.be/zjhYZU-olpo)
+<a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/Add_Entry.jpg" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/Booked_Amenitis.jpg" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+  </a> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
