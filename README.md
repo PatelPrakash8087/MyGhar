@@ -60,8 +60,9 @@
 
 ### Built With
 
-* [![Unity][unity.js]][Next-url]
-* [![C][C.js]][Vue-url]
+[![flutter][flutter.js]][Next-url]<br>
+[![firebase](Next-url)<br>](https://img.shields.io/badge/flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)<br>
+[![dart](Next-url)](https://img.shields.io/badge/flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)
 <!--
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -124,6 +125,7 @@ Prakash Patel - [@linkedin](https://www.linkedin.com/in/bhargav-singh-barad/) - 
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[flutter.js]: https://img.shields.io/badge/flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [C.js]: https://img.shields.io/badge/c%20sharp-000000?style=for-the-badge&logo=c&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
