@@ -24,10 +24,10 @@
   </a> 
 
 
-<h1 align="center">MyGhar - 3</h1>
+<h1 align="center">MyGhar</h1>
 
   <p align="center">
-     Unity game with a Visual code Editor (Drag & Drop) to run the Ship as per the commands of the user.
+     MyGhar : Society management system.
     <br />
     <a href="https://github.com/OracleYT/mark-3-demo"><strong>Explore the docs »</strong></a>
     <br />
