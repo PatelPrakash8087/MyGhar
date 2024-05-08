@@ -36,7 +36,7 @@
 ## About The Project
 
 <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/MyGhar_Logo.png" alt="Logo" width="150" height="300">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="250" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
     <img src="assets/Add_Entry.jpg" alt="Logo" width="150" height="300">
