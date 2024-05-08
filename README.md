@@ -146,7 +146,7 @@
 
 ## Contact
 
-Prakash Patel - [@linkedin](https://www.linkedin.com/in/bhargav-singh-barad/) - bhargavsinghbarad007@gmail.com
+Prakash Patel - [@linkedin](https://www.linkedin.com/in/bhargav-singh-barad/) - patelprakash8087@gmail.com
 
 ### !NO SOURCE CODE(CAN BE USED BY OTHERS IF DECLARED)
 
