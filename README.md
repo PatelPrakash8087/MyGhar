@@ -72,14 +72,8 @@
     <img src="assets/home_page.png" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/images" alt="Logo" width="150" height="300">
-  </a> 
-  <a href="https://github.com/OraclYT/mark-3-demo">
     <img src="assets/imgpsh_fullsize_anim.jpg" alt="Logo" width="150" height="300">
-  </a> 
-  <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="in_out.jpg" alt="Logo" width="150" height="300">
-  </a> 
+  </a>  
   <a href="https://github.com/OraclYT/mark-3-demo">
     <img src="assets/join_yoursocity.jpg" alt="Logo" width="150" height="300">
   </a> 
