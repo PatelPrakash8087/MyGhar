@@ -28,17 +28,7 @@
 
   <p align="center">
      MyGhar : Society management system.
-    <br />
-    <a href="https://github.com/OracleYT/mark-3-demo"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://youtu.be/zjhYZU-olpo">View Demo Video</a>
-    ·
-     <!--
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-     -->
+    
   </p>
 </div>
 
