@@ -46,61 +46,61 @@
 ## About The Project
 
 <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/MyGhar_Logo.png" alt="Logo" width="200" height="200">
+    <img src="assets/MyGhar_Logo.png" alt="Logo" width="300" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Add_Entry.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/Add_Entry.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Booked_Amenitis.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/Booked_Amenitis.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Maintenance.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/Maintenance.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Notification.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/Notification.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Securites_Alert.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/Securites_Alert.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Select_Amenitis.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/Select_Amenitis.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/add_transaction.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/add_transaction.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/get_along.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/get_along.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/get_gate_pass.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/get_gate_pass.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/handymen.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/handymen.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/home_page.png" alt="Logo" width="200" height="200">
+    <img src="assets/home_page.png" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/images" alt="Logo" width="200" height="200">
+    <img src="assets/images" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/imgpsh_fullsize_anim.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/imgpsh_fullsize_anim.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="in_out.jpg" alt="Logo" width="200" height="200">
+    <img src="in_out.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/join_yoursocity.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/join_yoursocity.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/pdf.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/pdf.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/services.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/services.jpg" alt="Logo" width="150" height="300">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/socity_fund.jpg" alt="Logo" width="200" height="200">
+    <img src="assets/socity_fund.jpg" alt="Logo" width="150" height="300">
   </a> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
